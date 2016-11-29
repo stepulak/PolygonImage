@@ -17,7 +17,6 @@ local numberOfPolygons = 100
 local numberOfVertices = 10
 local colorMutRange = 50
 local vertexMutRangeQ = 0.3
-local numberOfMutationsPerCycle = 1
 
 local gcCallPerCycles = 1000 -- call GC after N cycles of updating
 
